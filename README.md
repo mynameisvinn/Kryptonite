@@ -1,7 +1,5 @@
 # Kryptonite
-Kryptonite is a simple re-implementation of facebook's crypten library for secure multi-party computing. 
-
-You can add two numbers `A` and `B` without knowing either `A` or `B`.
+Kryptonite is a partial re-implementation of [facebook's crypten](https://github.com/facebookresearch/CrypTen) library for  multi-party computing. It lets you add two numbers `A` and `B` without knowing either `A` or `B`.
 
 ## Example
 ```python
